@@ -1,6 +1,6 @@
-# Order Report 
+# Order Report
 
-TBA
+A pure-Python command-line tool that reads a store's orders as a CSV file and prints a revenue report.
 
 
 ## Running the tests
